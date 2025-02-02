@@ -1,0 +1,21 @@
+/* :root {
+    --white: #ffffff;
+    --primary-color: rgb(61, 61, 247);
+}
+
+.button{
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.profile-data-field{
+    display: flex;
+    flex-direction:s
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
